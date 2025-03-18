@@ -1,0 +1,60 @@
+15:12:00.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+15:12:00.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+15:12:01.522 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:12:01.528 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:12:02.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:12:12.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished
+15:12:22.065 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+15:12:23.747 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+15:13:10.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+15:13:19.214 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+15:13:19.355 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+15:13:19.969 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:13:19.977 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:13:21.075 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:13:31.122 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished
+15:13:45.272 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+15:13:47.454 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+15:14:28.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+15:19:08.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+15:23:33.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+16:52:47.382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+16:52:53.667 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:52:53.780 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:52:54.191 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+16:52:54.195 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:52:55.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:53:05.474 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished
+16:54:12.712 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:54:12.856 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:54:13.494 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+16:54:13.497 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:54:14.764 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:54:24.785 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+16:54:47.914 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:54:48.099 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:54:49.707 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+16:54:49.714 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:54:50.958 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:55:01.011 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished
+16:55:07.500 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+16:55:08.764 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+17:15:08.134 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+17:15:08.827 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+17:15:10.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+17:15:10.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:15:15.925 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+17:15:26.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished
+17:15:34.136 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+17:15:36.341 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+09:57:11.986 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****

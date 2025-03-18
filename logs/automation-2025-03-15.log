@@ -1,0 +1,66 @@
+14:54:46.446 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:54:47.939 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:54:49.009 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:54:58.011 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished
+14:54:59.086 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finished
+15:11:13.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\crossbrowsing.xml
+
+15:11:31.250 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+15:11:31.601 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+15:11:32.251 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:11:32.261 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:11:32.378 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+15:11:32.617 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+15:11:33.507 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:11:33.509 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:11:34.120 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:11:35.443 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:11:44.183 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished
+15:11:45.507 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finished
+15:18:08.846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\crossbrowsing.xml
+
+15:18:21.714 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+15:18:21.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+15:18:22.745 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:18:22.753 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:18:24.022 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:18:24.319 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+15:18:24.418 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+15:18:25.076 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:18:25.077 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:18:26.449 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+15:18:34.055 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+15:18:36.462 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+15:18:45.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\test-output\testng-failed.xml
+
+15:18:46.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\test-output\testng-failed.xml
+
+15:18:46.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\test-output\testng-failed.xml
+
+15:24:42.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\test-output\testng-failed.xml
+
+17:09:37.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+17:10:03.197 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+17:10:53.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+17:11:01.173 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+17:12:04.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+17:12:13.046 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+17:15:20.514 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
+17:15:29.197 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+17:16:53.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\workspace_2025\march-js\Pavansdet\Opencart\master.xml
+
